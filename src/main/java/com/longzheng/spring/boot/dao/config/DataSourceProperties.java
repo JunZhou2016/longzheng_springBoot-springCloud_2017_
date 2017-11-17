@@ -1,4 +1,4 @@
-package com.spring.boot.dao.config;
+package com.longzheng.spring.boot.dao.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
