@@ -11,6 +11,7 @@
 	<url>http://maven.apache.org</url>
 
 	<!-- spring boot parent节点，引入这个之后，在下面和spring boot相关的就不需要引入版本了; -->
+	
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
